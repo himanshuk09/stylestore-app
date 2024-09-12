@@ -33,11 +33,13 @@ const Products = () => {
       </h2>
       <ProductFilter onFilterChange={handleFilterChange} />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-        {filteredProducts.map((product) => (
-          <Link to={`/products/${product.id}`}>
-            <ProductCard key={product.id} product={product} />
-          </Link>
-        ))}
+        {filteredProducts.length == 0
+          ? "No Product Found"
+          : filteredProducts.map((product) => (
+              <Link to={`/products/${product.id}`}>
+                <ProductCard key={product.id} product={product} />
+              </Link>
+            ))}
       </div>
     </div>
   );
