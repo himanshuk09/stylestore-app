@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Stylish Jacket",
+    "image": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3R5bGVzJTIwamFja2V0fGVufDB8fDB8fHww",
+    "price": 49.99,
+    "description": "A stylish and comfortable jacket for all seasons.",
+    "category": "Clothing",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "title": "Running Shoes",
+    "image": "https://images.unsplash.com/photo-1523314399-837f3e0c291b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHJ1bm5pbmclMjBzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 89.99,
+    "description": "Lightweight running shoes designed for optimal performance.",
+    "category": "Footwear",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "title": "Designer Handbag",
+    "image": "https://images.unsplash.com/photo-1705909237050-7a7625b47fac?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGRlc2dpbmVyJTIwaGFuZGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 199.99,
+    "description": "A luxurious handbag for special occasions.",
+    "category": "Accessories",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "title": "Elegant Watch",
+    "image": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZWxlZ2VudCUyMHdhdGNofGVufDB8fDB8fHww",
+    "price": 149.99,
+    "description": "An elegant watch with a minimalist design.",
+    "category": "Accessories",
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "title": "Casual T-Shirt",
+    "image": "https://plus.unsplash.com/premium_photo-1678218594563-9fe0d16c6838?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2FzdWFsJTIwVCUyMFNoaXJ0fGVufDB8fDB8fHww",
+    "price": 19.99,
+    "description": "A simple and comfortable cotton T-shirt.",
+    "category": "Clothing",
+    "rating": 4.1
+  },
+  {
+    "id": 6,
+    "title": "Leather Boots",
+    "image": "https://images.unsplash.com/photo-1599012307605-23a0ebe4d321?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TGVhdGhlciUyMEJvb3RzfGVufDB8fDB8fHww",
+    "price": 129.99,
+    "description": "Durable leather boots perfect for outdoor activities.",
+    "category": "Footwear",
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "title": "Sunglasses",
+    "image": "https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c3VuZ2xhc3Nlc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 29.99,
+    "description": "Stylish sunglasses with UV protection.",
+    "category": "Accessories",
+    "rating": 4.3
+  },
+  {
+    "id": 8,
+    "title": "Backpack",
+    "image": "https://images.unsplash.com/photo-1592388748465-8c4dca8dd703?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QmFja3BhY2t8ZW58MHx8MHx8fDA%3D",
+    "price": 79.99,
+    "description": "A versatile and spacious backpack for daily use.",
+    "category": "Accessories",
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "title": "Sneakers",
+    "image": "https://images.unsplash.com/photo-1518362165686-c587a1de1003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFNuZWFrZXJzfGVufDB8fDB8fHww",
+    "price": 59.99,
+    "description": "Comfortable sneakers suitable for everyday wear.",
+    "category": "Footwear",
+    "rating": 4.4
+  },
+  {
+    "id": 10,
+    "title": "Summer Hat",
+    "image": "https://images.unsplash.com/photo-1518912217224-3b1ae276c89e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fFN1bW1lciUyMEhhdHxlbnwwfHwwfHx8MA%3D%3D",
+    "price": 24.99,
+    "description": "A fashionable hat to protect from the sun.",
+    "category": "Accessories",
+    "rating": 4.0
+  },
+  {
+    "id": 11,
+    "title": "Formal Blazer",
+    "image": "https://images.unsplash.com/photo-1531410569299-927453214750?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Rm9ybWFsJTIwQmxhemVyfGVufDB8fDB8fHww",
+    "price": 199.99,
+    "description": "A sleek and professional blazer for formal occasions.",
+    "category": "Clothing",
+    "rating": 4.9
+  },
+  {
+    "id": 12,
+    "title": "Smartwatch",
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3",
+    "price": 249.99,
+    "description": "A smartwatch with various health tracking features.",
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "id": 13,
+    "title": "Yoga Pants",
+    "image": "https://images.unsplash.com/photo-1600881333168-2ef49b341f30?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fHlvZ2ElMjBwYW50fGVufDB8fDB8fHww",
+    "price": 39.99,
+    "description": "Flexible and breathable yoga pants for workouts.",
+    "category": "Clothing",
+    "rating": 4.5
+  },
+  {
+    "id": 14,
+    "title": "Beanie Hat",
+    "image": "https://images.unsplash.com/photo-1699347611474-5be693bee31e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEJlYW5pZSUyMEhhdHxlbnwwfHwwfHx8MA%3D%3D",
+    "price": 14.99,
+    "description": "A warm beanie hat for cold weather.",
+    "category": "Accessories",
+    "rating": 4.2
+  },
+  {
+    "id": 15,
+    "title": "Leather Wallet",
+    "image": "https://images.unsplash.com/photo-1629958513881-a086d21383cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TGVhdGhlciUyMFdhbGxldHxlbnwwfHwwfHx8MA%3D%3D",
+    "price": 39.99,
+    "description": "A compact and stylish leather wallet.",
+    "category": "Accessories",
+    "rating": 4.8
+  },
+  {
+    "id": 16,
+    "title": "Raincoat",
+    "image": "https://plus.unsplash.com/premium_photo-1683140796507-b13a65e45cf0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8UmFpbmNvYXR8ZW58MHx8MHx8fDA%3D",
+    "price": 59.99,
+    "description": "A waterproof raincoat for rainy days.",
+    "category": "Clothing",
+    "rating": 4.1
+  },
+  {
+    "id": 17,
+    "title": "Wireless Earbuds",
+    "image": "https://images.unsplash.com/photo-1590658006821-04f4008d5717?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 129.99,
+    "description": "High-quality wireless earbuds with noise cancellation.",
+    "category": "Electronics",
+    "rating": 4.9
+  },
+  {
+    "id": 18,
+    "title": "Running Shorts",
+    "image": "https://images.unsplash.com/photo-1488778578932-0f84d315fcae?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fFJ1bm5pbmclMjBTaG9ydHN8ZW58MHx8MHx8fDA%3D",
+    "price": 24.99,
+    "description": "Lightweight running shorts with moisture-wicking fabric.",
+    "category": "Clothing",
+    "rating": 4.4
+  },
+  {
+    "id": 19,
+    "title": "Graphic Tee",
+    "image": "https://images.unsplash.com/photo-1519649962620-8e085a22b142?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8R3JhcGhpYyUyMFRlZXxlbnwwfHwwfHx8MA%3D%3D",
+    "price": 14.99,
+    "description": "A fun graphic tee for casual outings.",
+    "category": "Clothing",
+    "rating": 4.2
+  },
+  {
+    "id": 20,
+    "title": "Travel Mug",
+    "image": "https://images.unsplash.com/photo-1666779484261-1e171bc19dcd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8VHJhdmVsJTIwTXVnfGVufDB8fDB8fHww",
+    "price": 19.99,
+    "description": "A durable travel mug for hot and cold beverages.",
+    "category": "Accessories",
+    "rating": 4.5
+  }
+]
